@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MLKE621.github.io</id>
+    <title>MLKE的帐篷</title>
+    <updated>2024-01-13T16:18:13.740Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://MLKE621.github.io"/>
+    <link rel="self" href="https://MLKE621.github.io/atom.xml"/>
+    <subtitle>刚支棱起来（</subtitle>
+    <logo>https://MLKE621.github.io/images/avatar.png</logo>
+    <icon>https://MLKE621.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, MLKE的帐篷</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://MLKE621.github.io/post/about/</id>
+        <link href="https://MLKE621.github.io/post/about/">
+        </link>
+        <updated>2024-01-13T15:24:47.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>首先呢很感谢<a href="x.com/azotefurry" title="Azote的推特">Azote</a>买的mlke.in域名，虽然现在还没用上 <s>但这是否为一种抢注</s><br>
+然后呢很感谢<a href="x.com/azotefurry" title="Azote的推特">Azote</a>告诉我这个可以用来写博客的平台<br>
+最后呢，这个小站目前可能还<strong>不会有很大的动静</strong>，一般可能还是在<strong>推特</strong>上活动的比较多<br>
+<s>以及其实这个是一个模板，我只是在尝试让这里不要那么空（虽然mlke.in现在还是域名商的页面来着）</s></p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>是<a href="x.com/mlke621" title="推特@MLKE621">MLKE</a> （<s>非常显然易见的答复</s>）</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>聊天、交朋友、出门玩、街机音游（maimai、太鼓达人等）、<s>小提琴</s></p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>可以发邮件给<a href="mailto:me@mlke.in">me@mlke.in</a><br>
+或者 <a href="mlke621.t.me" title="@MLKE621">telegram</a>/<a href="x.com/mlke621" title="推特@MLKE621">推特</a> 私信</p>
+]]></content>
+    </entry>
+</feed>
